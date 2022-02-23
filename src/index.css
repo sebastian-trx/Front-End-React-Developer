@@ -1,0 +1,17 @@
+:root{
+  --theme-color: #fff;
+  --primary-color: #124f88;
+  --form-border-color: #dbdbdb;
+  --form-input-color: #6495ed;
+  --navbar-color: #e5e5e5;
+  --background-message: #000000c5;
+
+}
+
+body {
+  margin: 0;
+  font-family: sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
